@@ -1,0 +1,5 @@
+
+:: check for leaks ::
+
+//in main//
+system("leaks push_swap");
