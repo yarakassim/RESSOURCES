@@ -2,3 +2,6 @@
 :: linking git url to an existing repo ::
 \\ git init //
 \\ git remote add origin <url> //
+
+:: removing git url from a directory ::
+\\ git remote add origin <url> // 
