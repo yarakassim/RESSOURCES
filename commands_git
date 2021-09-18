@@ -1,0 +1,4 @@
+
+:: linking git url to an existing repo ::
+\\ git init //
+\\ git remote add origin <url> //
