@@ -7,3 +7,8 @@ system("leaks push_swap");
 //in command line//
 -fsanitize=address 
 flag \\ -g3 // for debugging
+
+:: check for padding ::
+
+//in command line//
+-Wpadded
