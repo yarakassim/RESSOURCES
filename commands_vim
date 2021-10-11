@@ -4,3 +4,5 @@ search + delete cmd // :1,$s/thingtodelete//g \\
 search + replace on current line cmd // :s/thingtoreplace/replacewith/g \\
 
 search + replace all lines cmd // :%s/thingtoreplace/replacewith/g \\
+
+re align file // gg=G \\
