@@ -1,0 +1,2 @@
+:: generate new ssh key ::
+\\ ssh-keygen //
